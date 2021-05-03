@@ -23,9 +23,22 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+Accessibility on the web is like buildings having elevators and wheelchair ramps. The objective is to ensure that all people can receieve the same information from your website, regardless of any potential disabilities they have, such as blindness (people who use screen-readers need semantic html).
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+The first thing to do with your website is use semantic html. This allows screen-readers to more easily describe what your website/code is showing and gives all users a legitimate experience.
+The second thing you could is have a toggle for people who are color blind. This would change the colors on the webstie to be more readable.
+A third thing you can do use media queries to display your website in a certain at different pixel widths (and heights). This makes more a better user experience for everyone, whether you are looking at the website on your computer, or on your phone.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+A variable is a way to store data value. This information can also be changed at anytime. An analogy I like is that a variable is like a cookie jar. You can label this cookie jar "chocolate chip" and put in as many chocolate chip cookies as you would like. Similarly the variable could "change" as people take cookies out. Furthermore, if you decide to bake sugar cookies, you chould the name of the cookie jar to "sugar cookies" and begin to add in as many sugar cookies as you would like.
+
 4. What is the purpose of using functions in code?
+
+Functions in code in short are a huge time-saver and great way to shorten / clean up your code. They allow you to write a line of code than you can use infinite more times in your code later on (by calling the function) which in turns saves you from re-writing the same lines of code over and over again if you were trying to do the same thing multiple times in one file.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
